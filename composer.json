@@ -1,9 +1,15 @@
 {
-    "name": "league/glide-symfony",
-    "description": "Glide adapter for Symfony",
+    "name": "codexsoft/glide-symfony",
+    "description": "A FORK of Glide adapter for Symfony",
     "homepage": "http://glide.thephpleague.com",
     "license": "MIT",
     "authors" : [
+        {
+            "name": "Dmitriy V Kozubskiy",
+            "email": "kozubsky@inbox.ru",
+            "homepage": "http://codexsoft.ru/",
+            "role": "Fork Maintainer"
+        },
         {
             "name": "Jonathan Reinink",
             "email": "jonathan@reinink.ca",
